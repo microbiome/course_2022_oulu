@@ -1,6 +1,6 @@
-# Multi-omic data science with R/Bioconductor
+# Microbiome data science with R/Bioconductor
 
-**Welcome to Oulu Summer School, June 2022**
+**Welcome to Radboud Summer School, July 2022**
 
 <img src="https://user-images.githubusercontent.com/60338854/121848694-1072a480-ccf3-11eb-9af2-7fdefd8d1794.png" alt="ML4microbiome" width="50%"/>
 
@@ -27,54 +27,6 @@ associated package ecosystem, demonstration data sets, and open
 documentation. These are explained in more detail in the online book
 [Orchestrating Microbiome Analysis](https://microbiome.github.io/OMA).
 
-This training material walks you through an example workflow that
-shows the standard steps of taxonomic data analysis covering data
-access, exploration, analysis, visualization and reporoducible
-reporting. **You can run the workflow by simply copy-pasting the
-examples.** For advanced material, you can test and modify further
-examples from the [OMA book](https://microbiome.github.io/OMA), or try
-to apply the techniques to your own data.
-
-
-
-
-# Learning goals
-
-This course will teach the basics of biomedical data analysis with R/Bioconductor, a
-popular open source environment for scientific data analysis. The participants get an
-overview of the reproducible data analysis workflow in modern multi-omics, with a focus
-on recent examples from published microbiome studies. After the course you will know
-how to approach new tasks in biomedical data analysis by utilizing available
-documentation and R tools. The teaching format allows adaptations according to the
-student’s learning speed.
-
-The teaching will follow open online documentation created by the course teachers,
-extending the online book Orchestrating Microbiome Analysis
-(https://microbiome.github.io/OMA). The training material walks you through the
-standard steps of biomedical data analysis covering data access, exploration, analysis,
-visualization, reproducible reporting, and best practices in open science. The openly
-licensed teaching material will be available online during and after the course, following
-national recommendations on open teaching materials.
-
-
-**Target audience** The course is primarily designed for advanced MSc and PhD students, Postdocs, and
-biomedical researchers who wish to learn new skills in scientific programming and
-biomedical data analysis. Academic students and researchers from Finland and abroad are
-welcome and encouraged to apply. The course has limited capacity of max 20 participants,
-and priority will be given for local students from Oulu.
-
-**Venue** University of Oulu. June 20-23, 2022.
-
-## Acknowledgments
-
-**Citation** "Multi-omic data science with R/Bioconductor (2022). Tuomas Borman and Leo Lahti. URL: https://microbiome.github.io/course_2022_oulu/"
-
-**Contact**
-- [Leo Lahti](http://datascience.utu.fi), University of Turku
-- [mia Collective](https://microbiome.github.io)
-
-**License** All material is released under the open [CC BY-NC-SA 3.0 License](LICENSE).
-
 - Landing page (html): [miaverse teaching material](https://microbiome.github.io/course_2021_radboud/)
 - Source code (github): [miaverse teaching material](https://github.com/microbiome/course_2021_radboud)
 
@@ -83,3 +35,5 @@ the Rmd files with executable code. All files can be rendered at one
 go by running the file [main.R](main.R). You can check the file for
 details on how to clone the repository and convert it into a gitbook,
 although this is not necessary for the training.
+
+To setup the website, activate the gh-pages branch and wait for a few minutes.
